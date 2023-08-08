@@ -3,7 +3,7 @@
 * A command-line tool in Python that utilizes the OpenWeatherMap API to retrieve and display the current weather forecast for a given city.
 * The tool accepts a city name as input, communicates with the OpenWeatherMap API to fetch the weather data, parses the JSON response, and presents the relevant weather information, including the city name, temperature, and description.
 * It also includes error handling to handle potential exceptions during the API request and response processes.
-## Working ##
+## Working: ##
 * Command-line tool that accepts a city's name and returns the current weather forecast. Leveraging OpenWeatherMap API to fetch weather data and parse it using Python.
 
   Methodology involved:
