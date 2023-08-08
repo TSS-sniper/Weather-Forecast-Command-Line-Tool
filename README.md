@@ -5,6 +5,7 @@
 * It also includes error handling to handle potential exceptions during the API request and response processes.
 ## Working ##
 * Command-line tool that accepts a city's name and returns the current weather forecast. Leveraging OpenWeatherMap API to fetch weather data and parse it using Python.
+
   Methodology involved:
   
   1. The script constructs the API endpoint URL using the provided city name and your OpenWeatherMap API key.
