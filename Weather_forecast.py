@@ -5,7 +5,7 @@ from geopy.geocoders import Nominatim
 
 def get_weather(latitude,longitude):
 
-    api_key = "1c6273f2826ec47926e8441361c1912f"
+    api_key = "xxxxxxx"
     url = "https://api.openweathermap.org/data/2.5/weather?lat={}&lon={}&appid={}".format(latitude,longitude,api_key)
     response = requests.get(url)
     if response.status_code == 200:
