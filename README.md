@@ -29,3 +29,6 @@
 - If the API request fails, an appropriate error message is displayed.
 - If the API response status code is not 200, an error message with the status code is shown.
 - If no city name is provided as a command-line argument, an error message is displayed.
+## Ouput:
+
+![ss_Wcli](https://github.com/TSS-sniper/Weather-Forecast-Command-Line-Tool/assets/121627136/95e49d6d-4c41-457f-95fa-5a897ab77177)
