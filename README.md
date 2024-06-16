@@ -13,12 +13,12 @@
 
 1. Clone or download this repository to your local machine.
 2. Sign up on the [OpenWeatherMap](https://openweathermap.org/) to obtain an API key.
-3. Open the `weather_forecast.py` file in a text editor.
+3. Open the `Weather_forecast.py` file in a text editor.
 4. Replace `"api_key"` with your actual OpenWeatherMap API key.
 
 ### Usage:
 
-* Run the command-line tool by executing the `weather_forecast.py` script from the command line and providing a city name as an argument.
+* Run the command-line tool by executing the `Weather_forecast.py` script from the command line and providing a city name as an argument.
 ## Working:
 
 1. The script constructs the API endpoint URL using the provided city name and your OpenWeatherMap API key.
